@@ -21,7 +21,6 @@ The project is organized as follows:
 ├── Web-Scraping.ipynb      # Jupyter notebook containing the code and explanations
 ├── scraped_quotes.csv      # Example output file (CSV format)
 ├── README.md               # Project documentation
-└── requirements.txt        # List of required Python packages
 ```
 
 ## Prerequisites
